@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hey, I'm Vradis👋</h1>
+<p>I'm an enthusiastic, curious and dedicated professional with a passion for technology and continuous learning.
+</p>
+</div>
 
-<!--
-**Vradss/Vradss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💥 About me
 
-Here are some ideas to get you started:
+- 🚀 Experienced IT Project Manager
+- 💻 Aspiring Full Stack Developer
+- 🎓 I'm a Software Engineer student at [42Madrid](https://www.42madrid.com/) 
+- 🖌 Creative UX/UI Designer
+- 🧿 See some of my [projects](https://vradis.webflow.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 📊 Github Analytics
+<p align="left">
+<a href="https://github.com/Vradss">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vradss&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+## 🌎 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/vradisflorez/)
+
