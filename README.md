@@ -7,7 +7,7 @@
 ## 💥 About me
 
 - 🚀 Experienced IT Project Manager
-- 💻 Aspiring Full Stack Developer
+- 💻 Aspiring Full Stack & Web3 Developer
 - 🎓 I'm a Software Engineer student at [42Madrid](https://www.42madrid.com/) 
 - 🖌 Creative UX/UI Designer
 - 🧿 See some of my [projects](https://vradis.webflow.io/)
