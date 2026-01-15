@@ -6,11 +6,11 @@
 
 ## 💥 About me
 
-- 🚀 Experienced IT Project Manager
+- 🚀 Experienced Technical Product Manager
 - 💻 Aspiring AI Engineer
 - 🎓 I'm a Software Engineer student at [42Madrid](https://www.42madrid.com/) 
 - 🖌 Creative UX/UI Designer
-- 🧿 See some of my [projects](https://vradis.webflow.io/)
+- 🧿 See some of my [projects](https://vradis.es/)
 
 <br>
 
